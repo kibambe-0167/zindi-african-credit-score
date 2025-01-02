@@ -19,3 +19,7 @@ FR.INR.LNDP: Interest rate spread (lending rate minus deposit rate, %)
 EG.USE.COMM.FO.ZS: Fossil fuel energy consumption (% of total)
 SL.UEM.TOTL.ZS: Unemployment rate
 The data downloaded from FRED is saved in a separate CSV in the data section.
+
+
+
+ID_269404226088267278, ID_247613296713267278, ID_271847294122267278, ID_308399367770267278, and ID_253278278418267278
